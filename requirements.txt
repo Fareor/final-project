@@ -1,0 +1,2 @@
+discord.py==any version
+asynco==any version
